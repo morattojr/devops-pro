@@ -64,7 +64,7 @@ docker run -d -p 27017:27017 --name my_mongodb_container -e MONGODB_INITDB_ROOT_
 ```
  
 
-2. Abrir o MongoDB Compass, criar um novo MongoDB database com os dados:
+2. Abrir o MongoDB Compass, criar a conexão com os dados:
 
 - URI: mongodb://localhost:27017
 
